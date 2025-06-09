@@ -1,0 +1,6 @@
+models/
+.venv/
+output_images/
+runs/
+dataset/dataset/*
+training/checkpoints/*
