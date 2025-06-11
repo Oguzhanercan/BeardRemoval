@@ -38,10 +38,10 @@ Training results were evaluated using **SSIM** (Structural Similarity Index) and
 
 
 ### Model inputs
-![Figure 5: PSNR of Train - Validation over Epochs](media/epoch_199_input.png)
+![Figure 5: Model inputs](media/epoch_199_input.png)
 
 ### Model outputs
-![Figure 3: PSNR of Train - Validation over Epochs](media/epoch_199_output.png)
+![Figure 6: Model outputs](media/epoch_199_output.png)
 
 ## Future Work
 
