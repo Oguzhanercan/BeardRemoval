@@ -36,6 +36,13 @@ Training results were evaluated using **SSIM** (Structural Similarity Index) and
 
 ![Figure 4: SSIM of Train - Validation over Epochs](media/ssim.png)
 
+
+### Model inputs
+![Figure 5: PSNR of Train - Validation over Epochs](media/epoch_199_input.png)
+
+### Model outputs
+![Figure 3: PSNR of Train - Validation over Epochs](media/epoch_199_output.png)
+
 ## Future Work
 
 To improve model performance, the following strategies could be explored:
